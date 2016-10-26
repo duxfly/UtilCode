@@ -1,6 +1,0 @@
-1.包含了微信公众号开发时保存和获取客户token的程序【存在两小时】具体类在包
-com.jx.service.messagecenter.components  WeixinService
-com.jx.service.messagecenter.contract  IWeixinService
-等微信打头的类
-2.支付宝的支付接口【具体没看过】
-3.发送邮件的类
